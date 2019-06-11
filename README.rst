@@ -20,7 +20,7 @@ Clone this repository and install with pip::
 Example
 =======
 
-In your zipline extension.py, add::
+In your zipline extension.py, add:
 
 .. code:: python
 
