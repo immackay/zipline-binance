@@ -1,0 +1,6 @@
+zipline
+trading-calendars
+pandas
+numpy
+pytz
+python-binance
